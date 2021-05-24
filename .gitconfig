@@ -1,0 +1,8 @@
+[core]
+	editor = \"C:\\Users\\JUNKI\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+	autoCRLF = false
+[user]
+	email = j.sakasegawa18@gmail.com
+	name = Junki Sakasegawa
+[init]
+	defaultBranch = main
